@@ -1,0 +1,13 @@
+.root {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-weight: 700;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+.root__container {
+  width: 380px;
+}

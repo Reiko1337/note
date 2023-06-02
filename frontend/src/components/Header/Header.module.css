@@ -1,0 +1,29 @@
+.header {
+  border-bottom: 3px solid #cdcdcd;
+}
+.nav {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: bottom;
+}
+.nav__btn {
+  padding: 8px 32px;
+  border: 2px solid #afafaf;
+  border-radius: 8px;
+  font-weight: 700;
+}
+.nav__btn:hover {
+  background-color: #afafaf;
+  color: #fff;
+}
+.menu {
+  display: flex;
+}
+.menu__item {
+  margin-right: 15px;
+}
+.menu__item:last-child {
+  margin-right: 0;
+}

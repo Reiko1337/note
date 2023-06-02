@@ -1,0 +1,20 @@
+body{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 17px;
+    color: #363636;
+}
+.container{
+    margin: 0 auto;
+    width: 1300px;
+}
+ul{
+   list-style: none; 
+}
+a{
+    color: #363636;
+    text-decoration: none;
+}
+main{
+    margin-top: 100px;
+}

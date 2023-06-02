@@ -1,0 +1,28 @@
+.message {
+  margin-top: 10px;
+}
+.success {
+  background-color: #46bea6;
+}
+.error {
+  background-color: #fb6868;
+}
+.message__container {
+  padding: 10px 25px 10px 10px;
+  border-radius: 6px;
+  color: #fff;
+  font-weight: 700;
+  align-items: start;
+  position: relative;
+}
+.delete__btn {
+  margin-left: 10px;
+  margin-left: auto;
+  cursor: pointer;
+  position: absolute;
+  right: 6px;
+  top: 5px;
+}
+.delete__btn:hover {
+  width: 14px;
+}
